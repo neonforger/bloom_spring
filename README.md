@@ -2,7 +2,7 @@
 
 A parametric flower animation built in Flutter with spring-physics bounce-back interaction.
 
-![Bloom Spring demo](assets/demo.gif)
+<img src="assets/demo.gif" width="100%" />
 
 ## What it does
 
