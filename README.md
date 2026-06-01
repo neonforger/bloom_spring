@@ -2,7 +2,7 @@
 
 A parametric flower animation built in Flutter with spring-physics bounce-back interaction.
 
-https://github.com/albertdom/bloom_spring/releases/download/v1.0.0/final.mp4
+<video src="https://github.com/albertdom/bloom_spring/releases/download/v1.0.0/final.mp4" controls autoplay loop muted width="360"></video>
 
 ## What it does
 
